@@ -70,4 +70,4 @@ theme: cactus-dark
 deploy:
   type: git
   repo: git@github.com:DiegoRBaquero/blog.git
-  branch: master
+  branch: gh-pages
